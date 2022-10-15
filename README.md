@@ -9,4 +9,4 @@ Hi I'm Dylan Wright, a Computer Science major at Chico State. This is my user ex
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Reaching a More Usable Lift Truck](j01/)
