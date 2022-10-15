@@ -15,7 +15,7 @@ While there is some variation from truck to truck, most reach trucks operate on 
 
 It is not obviously clear what anything on this control panel does, but you probably don't want someone without licensed supervision to drive one of these machines, so I don't really think this is actually a problem for reach trucks. I think this is one example of technology that is better learned through instruction rather than exploration. That being said, the more you use the reach truck, the better you will understand how it operates.
 
-![controls pt 2](../assets/controls_1.jpg)
+![controls pt 2](../assets/controls_2.jpg)
 
 These are the labeled controls for the reach truck. It still might not operate how you might think, however. It certainly did not for me when I wanted to turn the reach truck. The steering tiller turns the turning wheel located beneath the operator. This means that unlike a car, the back of the reach truck will swing out instead of the front. That part wasn't hard to understand, I had seen the trucks being used before I had operated one, what did throw me off however was that the tiller is not **mapped** to the direction of the wheel. Instead, an indicator on the screen shows you the direction you will move. The tiller can actually be turned infinitely in any direction, but the wheel itself will only rotate in a set 180 degrees.
 
