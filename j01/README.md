@@ -1,4 +1,4 @@
-# Reaching a More Usable Lift Truck
+# Reaching a More Learnable Lift Truck
 By Dylan Wright, October 14th 2022
 
 At my job with Home Depot, we frequently store palletized merchandise in the overheads of narrow aisles. To quickly drop and put up pallets, we employ the use of a couple of [Reach Forklift Trucks](https://www.toyotaforklift.com/resource-library/material-handling-solutions/products/what-is-a-reach-truck), more commonly reffered to as a "reach truck" or simply "reach."
