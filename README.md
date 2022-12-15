@@ -6,6 +6,8 @@ Hi I'm Dylan Wright, a Computer Science major at Chico State. This is my user ex
 
 ## UX Team Project
 
+[MyPantry](https://usabilityengineering.github.io/mypantry/)
+
 ## UX Journal
 
 - [Reaching a More Learnable Lift Truck](j01/)
